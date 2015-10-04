@@ -14,6 +14,7 @@
 		3C1893E11BC0B2A600AEA9DD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3C1893DF1BC0B2A600AEA9DD /* LaunchScreen.storyboard */; };
 		3C1893EC1BC0B2A600AEA9DD /* HelloTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C1893EB1BC0B2A600AEA9DD /* HelloTests.swift */; };
 		3C1893F71BC0B2A600AEA9DD /* HelloUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C1893F61BC0B2A600AEA9DD /* HelloUITests.swift */; };
+		3CBB3F251BC1E572007B75DA /* screenshots in Resources */ = {isa = PBXBuildFile; fileRef = 3CBB3F241BC1E572007B75DA /* screenshots */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		3C1893F21BC0B2A600AEA9DD /* HelloUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HelloUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3C1893F61BC0B2A600AEA9DD /* HelloUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HelloUITests.swift; sourceTree = "<group>"; };
 		3C1893F81BC0B2A600AEA9DD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3CBB3F241BC1E572007B75DA /* screenshots */ = {isa = PBXFileReference; lastKnownFileType = folder; path = screenshots; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 		3C1893CA1BC0B2A500AEA9DD = {
 			isa = PBXGroup;
 			children = (
+				3CBB3F241BC1E572007B75DA /* screenshots */,
 				3C1893D51BC0B2A600AEA9DD /* Hello */,
 				3C1893EA1BC0B2A600AEA9DD /* HelloTests */,
 				3C1893F51BC0B2A600AEA9DD /* HelloUITests */,
@@ -229,6 +232,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3CBB3F251BC1E572007B75DA /* screenshots in Resources */,
 				3C1893E11BC0B2A600AEA9DD /* LaunchScreen.storyboard in Resources */,
 				3C1893DE1BC0B2A600AEA9DD /* Assets.xcassets in Resources */,
 				3C1893DC1BC0B2A600AEA9DD /* Main.storyboard in Resources */,
